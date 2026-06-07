@@ -28,8 +28,6 @@ Contact Information
 Feedback on Issues: Submit an Issue in this repository.
 Discussion & Communication: Participate in the discussion section of the project.
 
-<img width="2169" height="1185" alt="image" src="https://github.com/user-attachments/assets/4ed2d36b-faa0-461e-89ae-9f8da1145151" />
-
 适用人群
 🔍 求职者：精准定位 500 强企业目标岗位，提前了解岗位要求
 📚 学生：研究行业岗位分布，规划职业发展路径
