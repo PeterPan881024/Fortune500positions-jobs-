@@ -2,6 +2,8 @@
 # Fortune500positions-jobs-世界500强岗位一览
 
 Target Audience & Related Information (English Version)
+<img width="2169" height="1185" alt="image" src="https://github.com/user-attachments/assets/a762d4aa-94f5-4168-af7d-3628bb3783a3" />
+
 Target Audience
 🔍 Job Seekers: Precisely locate target positions at Fortune 500 companies and gain advance understanding of job requirements.
 📚 Students: Research the distribution of positions across industries and plan career development paths.
@@ -25,6 +27,8 @@ In case of issues related to corporate privacy or infringement, please contact t
 Contact Information
 Feedback on Issues: Submit an Issue in this repository.
 Discussion & Communication: Participate in the discussion section of the project.
+
+<img width="2169" height="1185" alt="image" src="https://github.com/user-attachments/assets/4ed2d36b-faa0-461e-89ae-9f8da1145151" />
 
 适用人群
 🔍 求职者：精准定位 500 强企业目标岗位，提前了解岗位要求
